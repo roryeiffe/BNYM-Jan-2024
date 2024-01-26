@@ -1,4 +1,4 @@
-# Angular Exercise 10: Full-Stack Integration with Backend API
+# Angular Exercise 9: Full-Stack Integration with Backend API
 
 ## Description
 
